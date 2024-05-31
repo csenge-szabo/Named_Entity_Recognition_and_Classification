@@ -42,6 +42,6 @@ Before you begin, ensure you complete the following steps:
 ### 7. `error_analysis.py`
 - **Description**: Reads the input CoNLL file (output of the best-performing SVM classifier created by 'models_with_combined features.py'). It analyzes misclassifications and correct classifications for certain NE classes, and also analyzes the ratio of single-token vs multi-token NE misclassifications.
 
-REMARKS:
+## REMARKS:
 Throughout the semester I collaborated with Murat Ertaş, we developed some parts of code together, especially the code for extracting and combining word embeddings. Discussions with Christina Karavida inspired me to explore the idea of advanced features, particularly 'word shape'.
 
