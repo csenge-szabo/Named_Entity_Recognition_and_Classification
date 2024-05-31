@@ -3,7 +3,9 @@
 ## Author
 Csenge Szabó
 
-This repository contains the project work for the Machine Learning Master's course in Computational Linguistics taught at VU Amsterdam, focusing on Named Entity Recognition and Classification (NERC).
+## Overview
+
+This repository contains the project work for the Machine Learning Master's course taught at VU Amsterdam, focusing on Named Entity Recognition and Classification (NERC).
 
 ## Prerequisites
 Before you begin, ensure you complete the following steps:
